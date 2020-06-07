@@ -29,3 +29,15 @@ Pode-se constatar que as mais importantes plataformas são o Nintendo DS e o Pla
 <p align="center">
   <img src="10maioresplataformas.jpg" >
 </p>
+
+# Quais são os 10 jogos mais vendidos da história dos games e o que eles nos dizem?
+
+Com uma liderança incontestável, o que pode concretamente apontar uma direção inequívoca para novos lançamentos, observa-se o Nitendo Wii Sports, como o jogo com a maior arrecadação de vendas na história dos jogos.
+Constata-se dessa forma, uma significativa predileção dos usuários por jogos na área esportiva e assuntos relacionados.
+A segunda colocação, ocupada pelo tradicional Super Mario, faz reforçar a percepção de que o público é ávido por jogos dinãmicos, uma vez que o tradicional personagem também possui uma vertente de muita aventura em sey contexto.
+Os resultados podem ser averiguados de acordo com o levantamento realizado na tabela abaixo.
+
+## 10 Maiores Jogos
+<p align="center">
+  <img src="10maioresjogos.jpg" >
+</p>
