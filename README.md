@@ -7,3 +7,15 @@ Através do uso de Data Science, o presente artigo objetiva  estabelecer correla
 ## Utilidade mercadológica
 
 Com as informações de 182.576 dados de comercialização sobre diferentes plataformas de jogos, pode-se projetar e otimizar a utilização de diferentes estratégias de lançamentos de produtos, desenvolvimento de software, marketing aplicável e prospecção de novos mercados. 
+<p align="center">
+  <img src="cabeçalho.jpg" >
+</p>
+
+## 10 Jogos mais comercializados desde 1984
+
+Abaixo realizamos uma primeira inferência sobre os 10 jogos mais vendidos desde o ano 1984. 
+Chama atenção o fato de 30% desses terem sido lançados ainda na década de 80, quando a tecnologia ainda era incipiente. Analogamente, outros 60% começaram a ser vendidos na primeira década do século 2.000. Esses dados demonstram que as significativas inovações em enganheria de software mais recentes, não foram suficientes para alavamcar grandes volumes de venda. Além disso, existe uma predileção dos jogadores por manter o tradicionalismo da preservação de coleções atemporais.
+
+<p align="center">
+  <img src="10maisvendidos.jpg" >
+</p>
