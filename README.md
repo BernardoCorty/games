@@ -19,3 +19,13 @@ Chama atenção o fato de 30% desses terem sido lançados ainda na década de 80
 <p align="center">
   <img src="10maisvendidos.jpg" >
 </p>
+
+# A distinção entre as Plataformas
+
+Torna-se de vital importância estatística averiguar quais plataformas de fabricação de jogos conseguiram lançar as unidades que obtiveram o maior número vendas realizadas em mercado, para que se possa constatar quais são, de fato, as de maior efetividade em relação à inovação.
+Pode-se constatar que as mais importantes plataformas são o Nintendo DS e o Play Station 2, que mostram-se empatados na tabela abaixo com cerca de 2.250 unidades lançadas cada.
+
+## 10 Maiores Plataformas
+<p align="center">
+  <img src="10maioresplataformas.jpg" >
+</p>
