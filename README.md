@@ -42,9 +42,9 @@ Os resultados podem ser averiguados de acordo com o levantamento realizado na ta
   <img src="10maioresjogos.jpg" >
 </p>
 
-# Gráfico de Calor: Realização de Arrecadção com os Jogos, por Plataforma e Área de Interesse
+# Gráfico de Calor: Realização de Arrecadação com os Jogos, por Plataforma e Área de Interesse
 
-Usando um arrojado Gráfico de calor, pode-se confirmar a esperada prevalência dos jogos de ação e esportes no faturamento obtido. A partir desse gráfico, pode-se realizar também inúmeras observações, como que jogos de corrida, exceto os das plataformas PS e PS2, não têm histórico de possuir bom desempenho comercial. Outra área com desempenho muito abaixo da média, são os jogos de estratégia, o que possivelmente vai indicar uma reduzida tendência pelas plataformas, de realizarem lançamentos nessas áreas. 
+Usando um arrojado Gráfico de calor, pode-se confirmar a esperada prevalência dos jogos de ação e esportes no faturamento obtido. A partir desse gráfico, pode-se realizar também inúmeras observações, como por exemplo, que jogos de corrida, exceto os das plataformas PS e PS2, não têm histórico de possuir bom desempenho comercial. Outra área com desempenho muito abaixo da média, são os jogos de estratégia, o que possivelmente vai indicar uma reduzida tendência pelas plataformas, de realizarem lançamentos nessas áreas. 
 
 # Realização de Faturamento
 <p align="center">
