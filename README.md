@@ -8,7 +8,7 @@ Através do uso de Data Science, o presente artigo objetiva  estabelecer correla
 
 Com as informações de 182.576 dados de comercialização sobre diferentes plataformas de jogos, pode-se projetar e otimizar a utilização de diferentes estratégias de lançamentos de produtos, desenvolvimento de software, marketing aplicável e prospecção de novos mercados. 
 <p align="center">
-  <img src="cabeçalho.jpg" height="150" width="400" >
+  <img src="cabeçalho.jpg" height="200" width="400" >
 </p>
 
 ## 10 Jogos mais comercializados desde 1984
