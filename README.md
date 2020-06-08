@@ -17,7 +17,7 @@ Abaixo realizamos uma primeira inferência sobre os 10 jogos mais vendidos desde
 Chama atenção o fato de 30% desses terem sido lançados ainda na década de 80, quando a tecnologia ainda era incipiente. Analogamente, outros 60% começaram a ser vendidos na primeira década do século 2.000. Esses dados demonstram que as significativas inovações em enganheria de software mais recentes, não foram suficientes para alavamcar grandes volumes de venda. Além disso, existe uma predileção dos jogadores por manter o tradicionalismo da preservação de coleções atemporais.
 
 <p align="center">
-  <img src="10maisvendidos.jpg" height="250" width="500">
+  <img src="10maisvendidos.jpg" height="500" width="1000">
 </p>
 
 # A distinção entre as Plataformas
