@@ -37,7 +37,7 @@ Constata-se dessa forma, uma significativa predileção dos usuários por jogos 
 A segunda colocação, ocupada pelo tradicional Super Mario, faz reforçar a percepção de que o público é ávido por jogos dinãmicos, uma vez que o tradicional personagem também possui uma vertente de muita aventura em sey contexto.
 Os resultados podem ser averiguados de acordo com o levantamento realizado na tabela abaixo.
 
-## 10 Maiores Jogos
+## 10 Maiores Jogos em termos de arrecadação
 <p align="center">
   <img src="10maioresjogos.jpg" >
 </p>
