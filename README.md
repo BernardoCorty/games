@@ -1,4 +1,4 @@
-# Data Science - análise do mercado internacional de videgamos</b>
+# Data Science e o mercado internacional de videogamos
 <p align="center">
   <img src="image2.png" >
 </p>
