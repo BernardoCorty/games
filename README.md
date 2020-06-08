@@ -1,4 +1,4 @@
-# Data Science no mercado internacional de videogames
+# Data Science aplicada ao mercado internacional de videogames
 <p align="center">
   <img src="image2.png" >
 </p>
