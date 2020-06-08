@@ -1,4 +1,4 @@
-# Videogames</b>
+# Data Science na análise do mercado internacional de videgamos</b>
 <p align="center">
   <img src="image2.png" >
 </p>
